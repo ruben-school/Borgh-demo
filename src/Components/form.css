@@ -1,0 +1,22 @@
+.form {
+    width: 500px;
+   }
+.media {
+    max-width: 15%;
+    /* height: 140px; */
+    display: block;
+    margin: 25px auto;
+}
+
+.photo {
+    height: 200px;
+    
+}
+
+.collapse {
+    padding: 0 16px 16px 16px;
+}
+
+.comment {
+    width: 100%;
+}
