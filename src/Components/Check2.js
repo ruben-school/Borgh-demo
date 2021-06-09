@@ -49,7 +49,7 @@ export default function Checks2() {
   };
 
   const handleSubmit = () => {
-    window.location.href = "/gelukt";
+    window.location.href = "/Borgh-demo/gelukt";
   };
 
   return (

@@ -4,7 +4,7 @@ import { data } from '../Api/Dummy';
 
 export default function setInitialData() {
   function goHome() {
-    window.location.href = "/";
+    window.location.href = "/Borgh-demo";
   }
   localStorage.setItem("leveringen", JSON.stringify(data))
   setTimeout(goHome, 1000);

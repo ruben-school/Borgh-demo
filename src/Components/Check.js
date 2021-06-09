@@ -49,7 +49,7 @@ export default function Check() {
   };
 
   const handleSubmit = () => {
-    window.location.href = "/checks2";
+    window.location.href = "/Borgh-demo/checks2";
   };
 
   return (

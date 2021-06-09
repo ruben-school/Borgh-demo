@@ -23,7 +23,7 @@ const useStyles = makeStyles({
 export default function DoorvoerTabel() {
   const classes = useStyles();
   function handleRow() {
-    window.location = "/checks";
+    window.location = "/Borgh-demo/checks";
   }
 
   return (

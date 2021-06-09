@@ -43,7 +43,7 @@ export default function DoorvoerForm() {
     console.log("kijk:", data);
     arr.push(data);
     localStorage.setItem("leveringen", JSON.stringify(arr));
-    window.location.href = "/";
+    window.location.href = "/Borgh-demo/";
   };
 
   const handleChange = (event) => {
