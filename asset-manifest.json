@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9e9bafc3.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.9778238f.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.9778238f.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.624d5816.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.624d5816.js.map",
-    "static/js/2.b64e7859.chunk.js": "/react-gh-pages/static/js/2.b64e7859.chunk.js",
-    "static/js/2.b64e7859.chunk.js.map": "/react-gh-pages/static/js/2.b64e7859.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "service-worker.js.map": "/react-gh-pages/service-worker.js.map",
-    "static/css/main.9e9bafc3.chunk.css.map": "/react-gh-pages/static/css/main.9e9bafc3.chunk.css.map",
-    "static/js/2.b64e7859.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.b64e7859.chunk.js.LICENSE.txt",
-    "static/media/coating.5f6f88a1.png": "/react-gh-pages/static/media/coating.5f6f88a1.png",
-    "static/media/zaag.ea92c709.jpg": "/react-gh-pages/static/media/zaag.ea92c709.jpg"
+    "main.css": "/Borgh-demo/static/css/main.9e9bafc3.chunk.css",
+    "main.js": "/Borgh-demo/static/js/main.f9663b18.chunk.js",
+    "main.js.map": "/Borgh-demo/static/js/main.f9663b18.chunk.js.map",
+    "runtime-main.js": "/Borgh-demo/static/js/runtime-main.8c3b8cfd.js",
+    "runtime-main.js.map": "/Borgh-demo/static/js/runtime-main.8c3b8cfd.js.map",
+    "static/js/2.b64e7859.chunk.js": "/Borgh-demo/static/js/2.b64e7859.chunk.js",
+    "static/js/2.b64e7859.chunk.js.map": "/Borgh-demo/static/js/2.b64e7859.chunk.js.map",
+    "index.html": "/Borgh-demo/index.html",
+    "service-worker.js": "/Borgh-demo/service-worker.js",
+    "service-worker.js.map": "/Borgh-demo/service-worker.js.map",
+    "static/css/main.9e9bafc3.chunk.css.map": "/Borgh-demo/static/css/main.9e9bafc3.chunk.css.map",
+    "static/js/2.b64e7859.chunk.js.LICENSE.txt": "/Borgh-demo/static/js/2.b64e7859.chunk.js.LICENSE.txt",
+    "static/media/coating.5f6f88a1.png": "/Borgh-demo/static/media/coating.5f6f88a1.png",
+    "static/media/zaag.ea92c709.jpg": "/Borgh-demo/static/media/zaag.ea92c709.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.624d5816.js",
+    "static/js/runtime-main.8c3b8cfd.js",
     "static/js/2.b64e7859.chunk.js",
     "static/css/main.9e9bafc3.chunk.css",
-    "static/js/main.9778238f.chunk.js"
+    "static/js/main.f9663b18.chunk.js"
   ]
 }
