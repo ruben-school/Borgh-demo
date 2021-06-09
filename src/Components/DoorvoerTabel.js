@@ -38,7 +38,7 @@ export default function DoorvoerTabel() {
             <TableCell align="right">Aantal Pallets</TableCell>
             <TableCell align="right">Aantal Colli</TableCell>
             <TableCell align="right">
-              <a href="/doorvoertijdenform">
+              <a href="/Borgh-demo/doorvoertijdenform">
                 <ControlPointIcon />
               </a>
             </TableCell>
