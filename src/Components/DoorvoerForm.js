@@ -19,7 +19,6 @@ const useStyles = makeStyles((theme) => ({
   textField: {
     marginLeft: theme.spacing(1),
     marginRight: theme.spacing(1),
-    color: "red",
   },
 }));
 
@@ -66,11 +65,8 @@ export default function DoorvoerForm() {
             {...register("DATUMTIJD")}
           />
         </Grid>
-        <Grid item xs={12}>
-          <FormControl className={classes.margin}>
-            <InputLabel htmlFor="demo-customized-textbox"></InputLabel>
-          </FormControl>
-          <FormControl className={classes.margin} style={{minWidth: 120}}>
+        <Grid item xs={12} className={classes.textField}>
+          <FormControl style={{minWidth: "92%"}}>
             <InputLabel id="demo-customized-select-label">Leverancier *</InputLabel>
             <Select
               labelId="demo-customized-select-label"
@@ -96,7 +92,7 @@ export default function DoorvoerForm() {
             {...register("NPALLETS")}
           />
         </Grid>
-        <Grid item xs={12}>
+        <Grid item xs={12} className={classes.textField}>
             <Typography>of</Typography>
         </Grid>
         <Grid item xs={12} >
@@ -111,7 +107,7 @@ export default function DoorvoerForm() {
             {...register("NCOLLI")}
           />
         </Grid>
-        <Grid item xs={12} >
+        <Grid item xs={12} className={classes.textField} >
           <TextField
             id="opmerking"
             label="Opmerking"
