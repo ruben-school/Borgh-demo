@@ -10,10 +10,8 @@ import { Route, BrowserRouter as Router } from 'react-router-dom';
 // Custom pages imports
 import Doorvoertijden from './Pages/Doorvoertijden';
 import RegistreerLevering from './Pages/RegistreerLevering';
-import AanmeldRhodius from './Pages/ArtikelAanmeldRhodius';
-import AanmeldSwiss from './Pages/ArtikelAanmeldSwiss';
-import Checks from './Pages/ChecksSwiss';
-import Checks2 from './Pages/ChecksSwiss2';
+import Checks from './Pages/ChecksSpijkstra';
+import Checks2 from './Pages/ChecksSpijkstra2';
 import Gelukt from './Pages/Gelukt';
 
 import setInitialData from './Pages/setInitialData';
@@ -24,8 +22,6 @@ function App() {
         <Router>
           <Route path="/" exact component={ Doorvoertijden } />
           <Route path="/doorvoertijdenform" exact component={ RegistreerLevering } />
-          <Route path="/aanmeldrhodius" exact component={ AanmeldRhodius } />
-          <Route path="/aanmeldswiss" exact component={ AanmeldSwiss } />
           <Route path="/checks" exact component={ Checks } />
           <Route path="/checks2" exact component={ Checks2 } />
           <Route path="/gelukt" exact component={ Gelukt } />

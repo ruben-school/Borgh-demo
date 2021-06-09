@@ -13,8 +13,6 @@ import ControlPointIcon from "@material-ui/icons/ControlPoint";
 
 // import { useGetDoorvoertijden } from "../Api/use-queries";
 
-
-// const myContext = React.createContext(data);
 let data = JSON.parse(localStorage.getItem("leveringen"));
 const useStyles = makeStyles({
   table: {
@@ -23,8 +21,6 @@ const useStyles = makeStyles({
 });
 
 export default function DoorvoerTabel() {
-  // const data = useGetDoorvoertijden();
-  // data = JSON.parse(data);
   const classes = useStyles();
   function handleRow() {
     window.location = "/checks";
