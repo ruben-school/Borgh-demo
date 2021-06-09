@@ -2,7 +2,7 @@
   "name": "inslag",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://https://ruben-school.github.io/Borgh-demo/",
+  "homepage": "https://ruben-school.github.io/Borgh-demo/",
 
   "dependencies": {
     "@date-io/date-fns": "^1.3.13",
