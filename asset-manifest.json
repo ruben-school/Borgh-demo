@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Borgh-demo/static/css/main.9e9bafc3.chunk.css",
-    "main.js": "/Borgh-demo/static/js/main.a577125f.chunk.js",
-    "main.js.map": "/Borgh-demo/static/js/main.a577125f.chunk.js.map",
+    "main.js": "/Borgh-demo/static/js/main.730552df.chunk.js",
+    "main.js.map": "/Borgh-demo/static/js/main.730552df.chunk.js.map",
     "runtime-main.js": "/Borgh-demo/static/js/runtime-main.8c3b8cfd.js",
     "runtime-main.js.map": "/Borgh-demo/static/js/runtime-main.8c3b8cfd.js.map",
     "static/js/2.b64e7859.chunk.js": "/Borgh-demo/static/js/2.b64e7859.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.8c3b8cfd.js",
     "static/js/2.b64e7859.chunk.js",
     "static/css/main.9e9bafc3.chunk.css",
-    "static/js/main.a577125f.chunk.js"
+    "static/js/main.730552df.chunk.js"
   ]
 }
