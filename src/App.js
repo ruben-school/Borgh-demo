@@ -20,12 +20,12 @@ function App() {
   return (
       <Grid container className="View" id="View">
         <Router>
-          <Route path="/" exact component={ Doorvoertijden } />
-          <Route path="/doorvoertijdenform" exact component={ RegistreerLevering } />
-          <Route path="/checks" exact component={ Checks } />
-          <Route path="/checks2" exact component={ Checks2 } />
-          <Route path="/gelukt" exact component={ Gelukt } />
-          <Route path="/index" exact component={ setInitialData } />
+          <Route path="/Borgh-demo/" exact component={ Doorvoertijden } />
+          <Route path="/Borgh-demo/doorvoertijdenform" exact component={ RegistreerLevering } />
+          <Route path="/Borgh-demo/checks" exact component={ Checks } />
+          <Route path="/Borgh-demo/checks2" exact component={ Checks2 } />
+          <Route path="/Borgh-demo/gelukt" exact component={ Gelukt } />
+          <Route path="/Borgh-demo/index" exact component={ setInitialData } />
         </Router>
       </Grid>
   );
